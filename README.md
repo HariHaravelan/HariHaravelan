@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HariHaravelan
-- 👀 I’m interested in Clean code, Object oriented design, Algorithms and High level design
+- 👀 I’m interested in Clean code, Object oriented design, functional programming, Algorithms and High level design
 - 🌱 I’m currently learning advanced DataStructure and Algorithms 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hariharavelan17@gmail.com
